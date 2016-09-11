@@ -1,0 +1,85 @@
+Codebook
+===================
+
+ - **tBodyAcc-mean()-X:** Mean of the time body accelerometer in the X direction
+ - **tBodyAcc-mean()-Y:** Mean of the time body accelerometer in the Y direction
+ - **tBodyAcc-mean()-Z:** Mean of the time body accelerometer in the Z direction
+ - **tBodyAcc-std()-X:** Standard deviation of the time body accelerometer in the X direction
+ - **tBodyAcc-std()-Y:** Standard deviation of the time body accelerometer in the Y direction
+ - **tBodyAcc-std()-Z:** Standard deviation of the time body accelerometer in the Z direction
+ - **tGravityAcc-mean()-X:** Mean of the time gravity accelerometer in the X direction
+ - **tGravityAcc-mean()-Y:** Mean of the time gravity accelerometer in the Y direction
+ - **tGravityAcc-mean()-Z:** Mean of the time gravity accelerometer in the Z direction
+ - **tGravityAcc-std()-X:** Standard deviation of the time gravity accelerometer in the X direction
+ - **tGravityAcc-std()-Y:** Standard deviation of the time gravity accelerometer in the Y direction
+ - **tGravityAcc-std()-Z:** Standard deviation of the time gravity accelerometer in the Z direction
+ - **tBodyAccJerk-mean()-X:** Mean of the time body accelerometer Jerk in the X direction
+ - **tBodyAccJerk-mean()-Y:** Mean of the time body accelerometer Jerk in the Y direction
+ - **tBodyAccJerk-mean()-Z:** Mean of the time body accelerometer Jerk in the Z direction
+ - **tBodyAccJerk-std()-X:** Standard deviation of the time body accelerometer Jerk in the X direction
+ - **tBodyAccJerk-std()-Y:** Standard deviation of the time body accelerometer Jerk in the Y direction
+ - **tBodyAccJerk-std()-Z:** Standard deviation of the time body accelerometer Jerk in the Z direction
+ - **tBodyGyro-mean()-X:** Mean of the time body gyroscope in the X direction
+ - **tBodyGyro-mean()-Y:** Mean of the time body gyroscope in the Y direction
+ - **tBodyGyro-mean()-Z:** Mean of the time body gyroscope in the Z direction
+ - **tBodyGyro-std()-X:** Standard deviation of the time body gyroscope in the X direction
+ - **tBodyGyro-std()-Y:** Standard deviation of the time body gyroscope in the Y direction
+ - **tBodyGyro-std()-Z:** Standard deviation of the time body gyroscope in the Z direction 
+ - **tBodyGyroJerk-mean()-X:** Mean of the time body gyroscope Jerk in the X direction
+ - **tBodyGyroJerk-mean()-Y:** Mean of the time body gyroscope Jerk in the Y direction
+ - **tBodyGyroJerk-mean()-Z:** Mean of the time body gyroscope Jerk in the Z direction
+ - **tBodyGyroJerk-std()-X:** Standard deviation of the time body gyroscope Jerk in the X direction
+ - **tBodyGyroJerk-std()-Y:** Standard deviation of the time body gyroscope Jerk in the Y direction
+ - **tBodyGyroJerk-std()-Z:** Standard deviation of the time body gyroscope Jerk in the Z direction
+ - **tBodyAccMag-mean():** Mean of the time body accelerometer magnitude 
+ - **tBodyAccMag-std():** Standard deviation of the time body accelerometer magnitude
+ - **tGravityAccMag-mean():** Mean of the time gravity accelerometer magnitude
+ - **tGravityAccMag-std():** Standard deviation of the time gravity accelerometer magnitude
+ - **tBodyAccJerkMag-mean():** Mean of the time body accelerometer Jerk magnitude
+ - **tBodyAccJerkMag-std():** Standard deviation of the time body accelerometer Jerk magnitude
+ - **tBodyGyroMag-mean():** Mean of the time body gyroscope magnitude
+ - **tBodyGyroMag-std():** Standard deviation of the time body gyroscope magnitude
+ - **tBodyGyroJerkMag-mean():** Mean of the time body gyroscope Jerk magnitude
+ - **tBodyGyroJerkMag-std():** Standard deviation of the time body gyroscope Jerk magnitude
+ - **fBodyAcc-mean()-X:** Mean of the frequency body accelerometer in the X direction
+ - **fBodyAcc-mean()-Y:** Mean of the frequency body accelerometer in the Y direction
+ - **fBodyAcc-mean()-Z:** Mean of the frequency body accelerometer in the Z direction
+ - **fBodyAcc-std()-X:** Standard deviation of the frequency body accelerometer in the X direction
+ - **fBodyAcc-std()-Y:** Standard deviation of the frequency body accelerometer in the Y direction
+ - **fBodyAcc-std()-Z:** Standard deviation of the frequency body accelerometer in the Z direction
+ - **fBodyAcc-meanFreq()-X:** Weighted average of the frequency components to obtain a mean frequency in the body accelerometer in the X direction
+ - **fBodyAcc-meanFreq()-Y:** Weighted average of the frequency components to obtain a mean frequency in the body accelerometer in the Y direction
+ - **fBodyAcc-meanFreq()-Z:** Weighted average of the frequency components to obtain a mean frequency in the body accelerometer in the Z direction
+ - **fBodyAccJerk-mean()-X**: Mean of the frequency body accelerometer Jerk in the X direction
+ - **fBodyAccJerk-mean()-Y:** Mean of the frequency body accelerometer Jerk in the Y direction
+ - **fBodyAccJerk-mean()-Z:** Mean of the frequency body accelerometer Jerk in the Z direction
+ - **fBodyAccJerk-std()-X:** Standard deviation of the frequency body accelerometer Jerk in the X direction
+ - **fBodyAccJerk-std()-Y:** Standard deviation of the frequency body accelerometer Jerk in the Y direction
+ - **fBodyAccJerk-std()-Z:** Standard deviation of the frequency body accelerometer Jerk in the Z direction
+ - **fBodyAccJerk-meanFreq()-X:** Weighted average of the frequency components to obtain a mean frequency in the body accelerometer Jerk in the X direction
+ - **fBodyAccJerk-meanFreq()-Y:** Weighted average of the frequency components to obtain a mean frequency in the body accelerometer Jerk in the Y direction
+ - **fBodyAccJerk-meanFreq()-Z:** Weighted average of the frequency components to obtain a mean frequency in the body accelerometer Jerk in the Z direction
+ - **fBodyGyro-mean()-X:** Mean of the frequency body gyroscope in the X direction
+ - **fBodyGyro-mean()-Y:** Mean of the frequency body gyroscope in the Y direction
+ - **fBodyGyro-mean()-Z:** Mean of the frequency body gyroscope in the Z direction
+ - **fBodyGyro-std()-X:** Standard deviation of the frequency body gyroscope in the X direction
+ - **fBodyGyro-std()-Y:** Standard deviation of the frequency body gyroscope in the Y direction
+ - **fBodyGyro-std()-Z:** Standard deviation of the frequency body gyroscope in the Z direction
+ - **fBodyGyro-meanFreq()-X:** Weighted average of the frequency components to obtain a mean frequency in the body gyroscope in the X direction
+ - **fBodyGyro-meanFreq()-Y:** Weighted average of the frequency components to obtain a mean frequency in the body gyroscope in the Y direction
+ - **fBodyGyro-meanFreq()-Z:** Weighted average of the frequency components to obtain a mean frequency in the body gyroscope in the Z direction
+ - **fBodyAccMag-mean():** Mean of the frequency body accelerometer magnitude
+ - **fBodyAccMag-std():** Standard deviation of the frequency body accelerometer magnitude
+ - **fBodyAccMag-meanFreq():** Weighted average of the frequency components to obtain a mean frequency in the body accelerometer magnitude
+ - **fBodyBodyAccJerkMag-mean():** Mean of the frequency body body accelerometer Jerk magnitude
+ - **fBodyBodyAccJerkMag-std():** Standard deviation of the frequency body body accelerometer Jerk magnitude 
+ - **fBodyBodyAccJerkMag-meanFreq():** Weighted average of the frequency components to obtain a mean frequency in the body body accelerometer Jerk magnitude
+ - **fBodyBodyGyroMag-mean():** Mean of the frequency body body gyroscope magnitude
+ - **fBodyBodyGyroMag-std():** Standard deviation of the frequency body body gyroscope magnitude
+ - **fBodyBodyGyroMag-meanFreq():** Weighted average of the frequency components to obtain a mean frequency in the body body gyroscope Jerk magnitude
+ - **fBodyBodyGyroJerkMag-mean():** Mean of the frequency body body gyroscope Jerk magnitude
+ - **fBodyBodyGyroJerkMag-std():** Standard deviation of the frequency body body gyroscope Jerk magnitude
+ - **fBodyBodyGyroJerkMag-meanFreq():** Weighted average of the frequency components to obtain a mean frequency in the body body gyroscope Jerk magnitude
+ - **activities**: The activities names
+ - **volunteers:** Identification of the volunteers who performed the activity
+  
