@@ -6,7 +6,7 @@ First of all, you need to download the data in order to run the script. You can 
 >https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 For more information about the data, see:
-http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
+>http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
 
 ----------
 The run_analysis.R script works in the following manner: 
