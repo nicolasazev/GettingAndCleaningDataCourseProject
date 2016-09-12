@@ -72,4 +72,6 @@ avg_tidy_data = as.data.frame(avg_tidy_data, stringsAsFactors=F)
 avg_tidy_data[1:79] = sapply(avg_tidy_data[1:79], as.numeric)
 avg_tidy_data[81] = sapply(avg_tidy_data[81], as.numeric)
 
+write.table(avg_tidy_data, file="output.txt", row.name=FALSE)
+
 avg_tidy_data
