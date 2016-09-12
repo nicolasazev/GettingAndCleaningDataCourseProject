@@ -67,14 +67,9 @@ avg_tidy_data = t(sapply(1:length(activities_data), function(i){
 ))
 # changes colnames with features name
 colnames(avg_tidy_data) = relevant_names_features
-# become a dataframe
+# converts into a dataframe & numeric type
 avg_tidy_data = as.data.frame(avg_tidy_data, stringsAsFactors=F)
-print(avg_tidy_data)
+avg_tidy_data[1:79] = sapply(avg_tidy_data[1:79], as.numeric)
+avg_tidy_data[81] = sapply(avg_tidy_data[81], as.numeric)
 
-
-
-
-
-
-
-
+avg_tidy_data
